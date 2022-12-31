@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Álgebra y geometría",
+        "enlace": "ayg"
+    },
+    {
+        "nombre": "Cálculo I",
+        "enlace": "c1"
+    },
+    {
+        "nombre": "Química",
+        "enlace": "quimica"
+    },
+    {
+        "nombre": "Programación",
+        "enlace": "programacion"
+    },
+    {
+        "nombre": "Álgebral lineal",
+        "enlace": "lineal"
+    },
+    {
+        "nombre": "Cálculo II",
+        "enlace": "c2"
+    },
+    {
+        "nombre": "Mecánica",
+        "enlace": "mecanica"
+    },
+    {
+        "nombre": "Programación avanzada",
+        "enlace": "progra-avanzada"
+    }
+]
