@@ -1,0 +1,118 @@
+[
+    {
+        "nombre": "Ecuaciones diferenciales",
+        "enlace": "edo"
+    },
+    {
+        "nombre": "Cálculo III",
+        "enlace": "c3"
+    },
+    {
+        "nombre": "Calor y ondas",
+        "enlace": "calor"
+    },
+    {
+        "nombre": "Estática",
+        "enlace": "estatica"
+    },
+    {
+        "nombre": "Mecánica de fluidos",
+        "enlace": "meca-fluidos"
+    },
+    {
+        "nombre": "Probabilidad y estadística",
+        "enlace": "proba"
+    },
+    {
+        "nombre": "Mecánica de sólidos",
+        "enlace": "meca-solidos"
+    },
+    {
+        "nombre": "Electricidad y magnetismo",
+        "enlace": "electro"
+    },
+    {
+        "nombre": "Edificación",
+        "enlace": "edificacion"
+    },
+    {
+        "nombre": "Optimización",
+        "enlace": "opti"
+    },
+    {
+        "nombre": "Hidráulica",
+        "enlace": "hidraulica"
+    },
+    {
+        "nombre": "Topografía",
+        "enlace": "topografia"
+    },
+    {
+        "nombre": "Análisis estructural",
+        "enlace": "analisis"
+    },
+    {
+        "nombre": "Introducción a la economía",
+        "enlace": "intro"
+    },
+    {
+        "nombre": "Ingeniería ambiental",
+        "enlace": "ambiental"
+    },
+    {
+        "nombre": "Tecnología del hormigón",
+        "enlace": "hormigon"
+    },
+    {
+        "nombre": "Diseño estructural",
+        "enlace": "dis-estructural"
+    },
+    {
+        "nombre": "Mecánica de suelos",
+        "enlace": "meca-suelos"
+    },
+    {
+        "nombre": "Hidrología",
+        "enlace": "hidrologia"
+    },
+    {
+        "nombre": "Administración de proyectos civiles",
+        "enlace": "admin-proyectos"
+    },
+    {
+        "nombre": "Diseño en hormigón",
+        "enlace": "dis-hormigon"
+    },
+    {
+        "nombre": "Fundaciones",
+        "enlace": "fundaciones"
+    },
+    {
+        "nombre": "Hidráulica urbana",
+        "enlace": "hidraulica-urbana"
+    },
+    {
+        "nombre": "Planificación de proyectos",
+        "enlace": "plan-proyectos"
+    },
+    {
+        "nombre": "Diseño en acero",
+        "enlace": "dis-acero"
+    },
+    {
+        "nombre": "Ingeniería sísmica",
+        "enlace": "sismica"
+    },
+    {
+        "nombre": "BIM",
+        "enlace": "bim"
+    },
+    {
+        "nombre": "Ingeniería de costos",
+        "enlace": "costos"
+    },
+    {
+        "nombre": "Diseño de caminos",
+        "enlace": "dis-caminos"
+    }
+]

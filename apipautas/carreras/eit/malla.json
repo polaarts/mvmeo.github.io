@@ -76,6 +76,18 @@
         "enlace": "digitales"
     },
     {
+        "nombre": "Ingenieria de software",
+        "enlace": "software"
+    },
+    {
+        "nombre": "Intro a la economía",
+        "enlace": "intro"
+    },
+    {
+        "nombre": "Tecnologías inalámbricas",
+        "enlace": "ti"
+    },
+    {
         "nombre": "Criptografía y seguridad en redes",
         "enlace": "cripto"
     },

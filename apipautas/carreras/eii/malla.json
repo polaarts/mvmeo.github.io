@@ -1,0 +1,106 @@
+[
+    {
+        "nombre": "Ecuaciones diferenciales",
+        "enlace": "edo"
+    },
+    {
+        "nombre": "Cálculo III",
+        "enlace": "c3"
+    },
+    {
+        "nombre": "Calor y ondas",
+        "enlace": "calor"
+    },
+    {
+        "nombre": "Contabilidad y costos",
+        "enlace": "conta"
+    },
+    {
+        "nombre": "Estática",
+        "enlace": "estatica"
+    },
+    {
+        "nombre": "Probabilidad y estadística",
+        "enlace": "proba"
+    },
+    {
+        "nombre": "Inferencia estadística",
+        "enlace": "inferencia"
+    },
+    {
+        "nombre": "Electricidad y magnetismo",
+        "enlace": "electro"
+    },
+    {
+        "nombre": "Mecánica de fluidos",
+        "enlace": "meca-fluidos"
+    },
+    {
+        "nombre": "Teoría organizacional",
+        "enlace": "teoria"
+    },
+    {
+        "nombre": "Bases de datos",
+        "enlace": "bbdd"
+    },
+    {
+        "nombre": "Termodinámica",
+        "enlace": "termo"
+    },
+    {
+        "nombre": "Modelos estocásticos",
+        "enlace": "estocastico"
+    },
+    {
+        "nombre": "Señales y sistemas",
+        "enlace": "señales"
+    },
+    {
+        "nombre": "Microeconomía",
+        "enlace": "micro"
+    },
+    {
+        "nombre": "Ingenieria económica",
+        "enlace": "economica"
+    },
+    {
+        "nombre": "Econometría",
+        "enlace": "econometria"
+    },
+    {
+        "nombre": "Proyectos energéticos",
+        "enlace": "proyectos"
+    },
+    {
+        "nombre": "Producción",
+        "enlace": "produccion"
+    },
+    {
+        "nombre": "Marketing",
+        "enlace": "marketing"
+    },
+    {
+        "nombre": "Finanzas",
+        "enlace": "finanzas"
+    },
+    {
+        "nombre": "Simulación",
+        "enlace": "simulacion"
+    },
+    {
+        "nombre": "Logística",
+        "enlace": "logistica"
+    },
+    {
+        "nombre": "Gestión estratégica",
+        "enlace": "estrategica"
+    },
+    {
+        "nombre": "Evaluación de proyectos",
+        "enlace": "evaluacion"
+    },
+    {
+        "nombre": "Data science",
+        "enlace": "data-science"
+    }
+]
