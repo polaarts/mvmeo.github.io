@@ -1,0 +1,102 @@
+[
+    {
+        "nombre": "Ecuaciones diferenciales",
+        "enlace": "edo"
+    },
+    {
+        "nombre": "Cálculo III",
+        "enlace": "c3"
+    },
+    {
+        "nombre": "Calor y ondas",
+        "enlace": "calor"
+    },
+    {
+        "nombre": "Estructura de datos y algoritmos",
+        "enlace": "eddya"
+    },
+    {
+        "nombre": "Redes de datos",
+        "enlace": "redes"
+    },
+    {
+        "nombre": "Probabilidad y estadística",
+        "enlace": "proba"
+    },
+    {
+        "nombre": "Electrónica y electrotecnia",
+        "enlace": "tecnia"
+    },
+    {
+        "nombre": "Electricidad y magnetismo",
+        "enlace": "electro"
+    },
+    {
+        "nombre": "Bases de datos",
+        "enlace": "bbdd"
+    },
+    {
+        "nombre": "Optimización",
+        "enlace": "opti"
+    },
+    {
+        "nombre": "Taller de redes y servicios",
+        "enlace": "taller"
+    },
+    {
+        "nombre": "Bases de datos avanzadas",
+        "enlace": "bbdda"
+    },
+    {
+        "nombre": "Contabilidad y costos",
+        "enlace": "conta"
+    },
+    {
+        "nombre": "Arquitetura y organización de computadores",
+        "enlace": "arqui-computadores"
+    },
+    {
+        "nombre": "Señales y sistemas",
+        "enlace": "señales"
+    },
+    {
+        "nombre": "Sistemas operativos",
+        "enlace": "so"
+    },
+    {
+        "nombre": "Gestión organizacional",
+        "enlace": "gestion"
+    },
+    {
+        "nombre": "Sistemas distribuidos",
+        "enlace": "sd"
+    },
+    {
+        "nombre": "Comunicaciones digitales",
+        "enlace": "digitales"
+    },
+    {
+        "nombre": "Criptografía y seguridad en redes",
+        "enlace": "cripto"
+    },
+    {
+        "nombre": "Inteligencia artificial",
+        "enlace": "ia"
+    },
+    {
+        "nombre": "Evaluación de proyectos TICS",
+        "enlace": "eva-tics"
+    },
+    {
+        "nombre": "Arquitecturas emergentes",
+        "enlace": "emergentes"
+    },
+    {
+        "nombre": "Arquitectura de software",
+        "enlace": "arqui-software"
+    },
+    {
+        "nombre": "Data science",
+        "enlace": "data-science"
+    }
+]
